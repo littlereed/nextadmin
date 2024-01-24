@@ -1,0 +1,12 @@
+.page {
+  display: flex;
+  gap: 16px;
+  padding: 40px;
+}
+
+.button {
+  padding: 12px 12px;
+  border-radius: 10px;
+  background-color: rgb(78, 198, 130);
+  border: solid 1px rgb(71, 71, 151) ;
+}
